@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+statsmodels
+scipy
+openpyxl
+jupyter
+requests

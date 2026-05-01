@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+file_tree.txt
+file_list.txt
+file_list.csv
+git_status.txt
+.venv/
+.env
