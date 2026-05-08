@@ -72,5 +72,3 @@ The project uses the exam-provided inflation datasets and external macroeconomic
 - USD/UAH exchange-rate data
 - oil prices
 
-The final report documents the sources and explains why each variable is used.
-
